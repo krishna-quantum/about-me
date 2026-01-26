@@ -1,11 +1,2 @@
 # about-me
-# Hi, I'm Krishna 👋
-
-I'm an 18-year-old learner from India building a strong foundation in:
-AI  from first principle
-
-## Long-term Goal
-To understand how intelligent systems work at a fundamental level.
-
----
-Consistency > Speed
+“I’m Krishna Singh, passionate about applying AI & ML to solve complex physics problems. From classical mechanics simulations to deep learning for quantum systems, I build reproducible projects, contribute to open-source, and aim to bridge AI with cutting-edge physics research. Currently working on computational physics projects, predictive models, and physics-informed neural networks.”
