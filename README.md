@@ -1,2 +1,2 @@
 # about-me
-“I’m Krishna Singh, passionate about applying AI & ML to solve complex physics problems. From classical mechanics simulations to deep learning for quantum systems, I build reproducible projects, contribute to open-source, and aim to bridge AI with cutting-edge physics research. Currently working on computational physics projects, predictive models, and physics-informed neural networks.”
+“I’m Krishna Singh, passionate about applying AI & ML , quantum computing to solve complex problems. I build reproducible projects, contribute to open-source.
