@@ -1,17 +1,9 @@
 # about-me
 Hi, I’m Krishna 👋
+I’m currently focused on learning Data Analytics and Business Intelligence with a strong interest in how data supports business decision-making, operations, and strategy.
 
-I work on data analytics and financial intelligence, focused on building
-practical systems that help businesses make better decisions.
+I enjoy working on hands-on projects, analyzing real-world datasets, and understanding how organizations use data to improve efficiency and performance.
 
-My work includes:
-- Financial and business data analysis
-- Dashboards and reporting systems
-- Forecasting and risk models
-- Data pipelines and analytics workflows
-- Applied analytics for operational decision-making
+Alongside analytics, I’m building a solid foundation in quantitative thinking, systems understanding, and problem-solving, with a long-term interest in working across complex industries.
 
-I’m currently building structured projects in finance, banking, and operations,
-with a long-term interest in scalable, data-driven systems.
-
-Learning by building. Researching by doing.
+I’m open to learning opportunities, collaborations, and practical projects where data meets real business problems.
