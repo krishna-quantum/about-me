@@ -1,9 +1,7 @@
 # about-me
 Hi, I’m Krishna 👋
-I’m currently focused on learning Data Analytics and Business Intelligence with a strong interest in how data supports business decision-making, operations, and strategy.
 
-I enjoy working on hands-on projects, analyzing real-world datasets, and understanding how organizations use data to improve efficiency and performance.
+Finance & Banking learner  
+Focused on credit, risk, and financial analysis  
 
-Alongside analytics, I’m building a solid foundation in quantitative thinking, systems understanding, and problem-solving, with a long-term interest in working across complex industries.
-
-I’m open to learning opportunities, collaborations, and practical projects where data meets real business problems.
+This GitHub contains my learning notes, models, and practical projects as I study real-world finance systems using Excel and Python.
