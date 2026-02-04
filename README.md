@@ -1,3 +1,8 @@
 # about-me
-Hi, I’m Krishna 👋
-"I am a dedicated learner building a foundation in Computer Science, Mathematics, and Quantum Physics from the ground up. Currently focused on mastering the classical foundations (Python & Linear Algebra) before transitioning into Quantum Machine Learning
+I’m learning software engineering from scratch.
+My current focus:
+Python
+Automation
+Problem solving
+Building small tools that solve real problems
+I share what I learn, what breaks, and what I fix.
